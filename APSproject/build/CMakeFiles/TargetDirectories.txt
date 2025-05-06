@@ -1,0 +1,3 @@
+C:/Users/dell/Desktop/DSW_LAB_SEM3/Project/APSproject/build/CMakeFiles/search_engine.dir
+C:/Users/dell/Desktop/DSW_LAB_SEM3/Project/APSproject/build/CMakeFiles/edit_cache.dir
+C:/Users/dell/Desktop/DSW_LAB_SEM3/Project/APSproject/build/CMakeFiles/rebuild_cache.dir

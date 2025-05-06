@@ -1,0 +1,10 @@
+This is a sample document for testing our enhanced search engine.
+It contains various words that we can search for and test different features.
+The search engine should be able to find this document when we search
+for relevant terms like "sample", "search", "document", or "engine".
+
+We can also test the spell correction feature with words like
+"searchh" or "dokument" which should suggest correct spellings.
+
+The autocomplete feature should work when we type partial words
+like "sear" or "doc" and suggest complete words from this text. 
